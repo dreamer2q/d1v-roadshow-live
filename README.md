@@ -1,5 +1,2 @@
-# d1v.ai 路演
-
-静态发布成品。七页路演与 Coffee Passport 体验。
-
-部署：GitHub Pages；初版生成：d1v.ai；内容校正与静态交付：人工协作。
+# d1v roadshow deployment
+Static site, root entry index.html, demo coffee/index.html. No build step, no secrets or backend services required.
